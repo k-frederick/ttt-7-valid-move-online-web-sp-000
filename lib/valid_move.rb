@@ -9,5 +9,5 @@ end
 
 
 def valid_move?(board, index)
-  
+  between (1, 9)
 end
