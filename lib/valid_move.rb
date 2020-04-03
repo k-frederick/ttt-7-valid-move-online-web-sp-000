@@ -8,5 +8,5 @@ def position_taken?(board, index)
 end
 
 def valid_move?(board, index)
-  value.between?(0, 8)
+  between?(0, 8)
 end
